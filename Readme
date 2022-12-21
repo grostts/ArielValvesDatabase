@@ -1,0 +1,6 @@
+Ariel Valve Database
+
+This scripts used to create a database of ariel compressor valves.
+For using this script you have to enter the login and password from ariel.com into the file auth_data.py .
+
+
